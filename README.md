@@ -6,3 +6,6 @@ https://github.com/stevenyuser/HelpfulSwiftSnippets/blob/main/HelpfulSwiftSnippe
 
 2) Local File Manager - a generic local file manager that deals with getting and saving images (UIImages) to the device file manager (Cache)
 https://github.com/stevenyuser/HelpfulSwiftSnippets/blob/main/HelpfulSwiftSnippets/LocalFileManager.swift 
+
+3) Search Bar View - a search bar component that binds to a searchText
+https://github.com/stevenyuser/HelpfulSwiftSnippets/blob/main/HelpfulSwiftSnippets/SearchBarView.swift 
