@@ -14,6 +14,7 @@
 		16B3B4892713A66D00DA1A2E /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B3B4882713A66D00DA1A2E /* NetworkManager.swift */; };
 		16B3B48D2713AE3700DA1A2E /* LocalFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B3B48C2713AE3700DA1A2E /* LocalFileManager.swift */; };
 		16B3B4922713C24200DA1A2E /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B3B4912713C24200DA1A2E /* SearchBarView.swift */; };
+		16E8E2D92718A64800199A3A /* XMarkButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E8E2D82718A64800199A3A /* XMarkButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		16B3B4882713A66D00DA1A2E /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		16B3B48C2713AE3700DA1A2E /* LocalFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalFileManager.swift; sourceTree = "<group>"; };
 		16B3B4912713C24200DA1A2E /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		16E8E2D82718A64800199A3A /* XMarkButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMarkButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				16B3B4882713A66D00DA1A2E /* NetworkManager.swift */,
 				16B3B48C2713AE3700DA1A2E /* LocalFileManager.swift */,
 				16B3B4912713C24200DA1A2E /* SearchBarView.swift */,
+				16E8E2D82718A64800199A3A /* XMarkButton.swift */,
 				162240172713A60D004D27D3 /* Assets.xcassets */,
 				1622401C2713A60D004D27D3 /* Info.plist */,
 				162240192713A60D004D27D3 /* Preview Content */,
@@ -152,6 +155,7 @@
 				16B3B4922713C24200DA1A2E /* SearchBarView.swift in Sources */,
 				162240142713A60C004D27D3 /* HelpfulSwiftSnippetsApp.swift in Sources */,
 				16B3B48D2713AE3700DA1A2E /* LocalFileManager.swift in Sources */,
+				16E8E2D92718A64800199A3A /* XMarkButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
