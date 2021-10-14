@@ -9,3 +9,6 @@ https://github.com/stevenyuser/HelpfulSwiftSnippets/blob/main/HelpfulSwiftSnippe
 
 3) Search Bar View - a search bar component that binds to a searchText
 https://github.com/stevenyuser/HelpfulSwiftSnippets/blob/main/HelpfulSwiftSnippets/SearchBarView.swift 
+
+4) X Mark Button - an x button component that allows the user to exit out of a sheet
+https://github.com/stevenyuser/HelpfulSwiftSnippets/blob/main/HelpfulSwiftSnippets/XMarkButton.swift 
