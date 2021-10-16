@@ -11,6 +11,7 @@
 		162240162713A60C004D27D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 162240152713A60C004D27D3 /* ContentView.swift */; };
 		162240182713A60D004D27D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 162240172713A60D004D27D3 /* Assets.xcassets */; };
 		1622401B2713A60D004D27D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1622401A2713A60D004D27D3 /* Preview Assets.xcassets */; };
+		165BFB6C271A4F2B00E0104F /* HapticManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165BFB6B271A4F2B00E0104F /* HapticManager.swift */; };
 		16B3B4892713A66D00DA1A2E /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B3B4882713A66D00DA1A2E /* NetworkManager.swift */; };
 		16B3B48D2713AE3700DA1A2E /* LocalFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B3B48C2713AE3700DA1A2E /* LocalFileManager.swift */; };
 		16B3B4922713C24200DA1A2E /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B3B4912713C24200DA1A2E /* SearchBarView.swift */; };
@@ -24,6 +25,7 @@
 		162240172713A60D004D27D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1622401A2713A60D004D27D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1622401C2713A60D004D27D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		165BFB6B271A4F2B00E0104F /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
 		16B3B4882713A66D00DA1A2E /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		16B3B48C2713AE3700DA1A2E /* LocalFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalFileManager.swift; sourceTree = "<group>"; };
 		16B3B4912713C24200DA1A2E /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				162240172713A60D004D27D3 /* Assets.xcassets */,
 				1622401C2713A60D004D27D3 /* Info.plist */,
 				162240192713A60D004D27D3 /* Preview Content */,
+				165BFB6B271A4F2B00E0104F /* HapticManager.swift */,
 			);
 			path = HelpfulSwiftSnippets;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			files = (
 				16B3B4892713A66D00DA1A2E /* NetworkManager.swift in Sources */,
 				162240162713A60C004D27D3 /* ContentView.swift in Sources */,
+				165BFB6C271A4F2B00E0104F /* HapticManager.swift in Sources */,
 				16B3B4922713C24200DA1A2E /* SearchBarView.swift in Sources */,
 				162240142713A60C004D27D3 /* HelpfulSwiftSnippetsApp.swift in Sources */,
 				16B3B48D2713AE3700DA1A2E /* LocalFileManager.swift in Sources */,
