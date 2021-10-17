@@ -43,8 +43,8 @@ class NetworkingManager {
     // function that downloads a URL and outputs a Combine Publisher that you can then call .sink on to use the data
     static func download(url: URL) -> AnyPublisher<Data, Error> {
         return URLSession.shared.dataTaskPublisher(for: url)
-            .subscribe(on: DispatchQueue.global(qos: .default))
             .tryMap({ try handleURLResponse(output: $0, url: url)})
+            .retry(3)
             .receive(on: DispatchQueue.main)
             .eraseToAnyPublisher()
     }
